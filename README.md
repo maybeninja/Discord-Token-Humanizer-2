@@ -11,7 +11,7 @@ A powerful tool designed to humanize mass Discord tokens efficiently. With advan
   Maximize efficiency by processing multiple tokens simultaneously.  
 
 - **Dual Modes**  
-  - **File Mode**: Load tokens from a file for batch processing.  
+  - **File Mode**: Loads Assets From File.  
   - **Config Mode**: Customize settings directly through a configuration file for greater control.  
 
 - **Advanced Customization**  
