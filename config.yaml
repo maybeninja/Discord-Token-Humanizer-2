@@ -1,0 +1,25 @@
+Threads:  1
+Retries: 0
+
+ProxyMode:
+ Enabled: False
+ Proxy: ''
+
+Mode : 'File' # 'File' or 'Config' 
+
+CustomizationToggle:
+ DisplayName: True
+ Avatar: True
+ Banner: True
+ Pronouns: True
+ Bio: True
+
+FixedCustomization:
+  DisplayName: 'Your Name'
+  Avatar: 'https://example.com/avatar.png'
+  Banner: 'https://example.com/banner.png'
+  Pronouns: 'He/Him'
+  Bio: 'Your Bio'
+
+
+
